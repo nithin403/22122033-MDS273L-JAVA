@@ -74,8 +74,8 @@ Enter your choice:
 4
 Transaction history:
 current account balance 50000.0
-Deposit of 25000.0 made. New balance is 75000.0
-Withdrawal of 5000.0 made. New balance is 70000.0
+Deposit of 25000.0 New balance is 75000.0
+Withdrawal of 5000.0 New balance is 70000.0
 Menu:
 1. Initialize customer
 2. Deposit money
