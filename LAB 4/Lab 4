@@ -25,7 +25,7 @@ public class LAB_4 {
         System.out.println("Enter amount to deposit: ");
         double amount = scanner.nextDouble();
         accountBalance += amount;
-        transactions.add("Deposit of " + amount + " made. New balance is " + accountBalance);
+        transactions.add("Deposit of " + amount + " New balance is " + accountBalance);
         System.out.println("Deposit successful!");
     }
 
@@ -38,7 +38,7 @@ public class LAB_4 {
             return;
         }
         accountBalance -= amount;
-        transactions.add("Withdrawal of " + amount + " made. New balance is " + accountBalance);
+        transactions.add("Withdrawal of " + amount + " New balance is " + accountBalance);
         System.out.println("Withdrawal successful!");
     }
 
