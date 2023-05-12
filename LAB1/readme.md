@@ -7,7 +7,7 @@ Assume that you can divide the states among India into different regions (North,
 Identify if the employee belongs to the top MNC Companies (Facebook, Google, Microsoft, Samsung, IBM, Apple); if so, print a message "The employee is working in Top MNC Companies".
   
   
-  Solution
+  ## Solution
 
 1. Create a Java program that will collect an employee's basic details such as name, age, gender, address, and contact details using appropriate data types.
 
