@@ -100,3 +100,7 @@ Enter your choice:
 6
 Exiting program...
 PS C:\Users\user\Desktop\nns> 
+
+
+![image](https://github.com/nithin403/22122033-MDS273L-JAVA/assets/113897873/2e317d59-0381-4f03-993b-9f70dc7226c0)
+
