@@ -22,3 +22,4 @@ Update the student details based on the search based on name or register number.
 Display all students
 Displays the details of all students.
 Save the details of each student in a file, with the student name as filename.
+![image](https://github.com/nithin403/22122033-MDS273L-JAVA/assets/113897873/a0deecf3-8fb5-4ade-83be-306b984d26eb)
