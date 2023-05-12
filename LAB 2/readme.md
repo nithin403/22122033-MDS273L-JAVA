@@ -17,3 +17,6 @@ Constraints:
 *)Provide necessary validations that the user enters only valid names that are not going to be repeated.
 *)Removing a name should not create empty space inside the array!
 *)Format your results properly!!
+
+![image](https://github.com/nithin403/22122033-MDS273L-JAVA/assets/113897873/cc03d9c4-cf83-4af0-863d-f22cf3accfc5)
+
