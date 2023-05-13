@@ -24,4 +24,5 @@ Identify if the employee belongs to the top MNC Companies (Facebook, Google, Mic
 ## Flowchart
  ![image](https://github.com/nithin403/22122033-MDS273L-JAVA/assets/113897873/5cf41c6d-7a95-46bc-a3ec-db5d42f065f0)
  
-  
+  ![image](https://github.com/nithin403/22122033-MDS273L-JAVA/assets/113897873/a3502712-b9e9-4f84-acb6-a22ff541895a)
+
