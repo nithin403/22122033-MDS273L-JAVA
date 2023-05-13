@@ -1,5 +1,5 @@
  Lab 4
- 
+## Question 
 Write a JAVA Menu driven program that does the following:
  intilize as global variables
 1)Account Number
@@ -17,11 +17,17 @@ Your menu will have the following operations once the customer is created
 //To print the transactions
 //To print account summary
 
+## Solution
+1. Declare global variables `accountNumber`, `accountHolderName`, and `accountBalance`.
+2. Create a function `initializeCustomer()` to initialize the customer with the values of `accountNumber`, `accountHolderName`, and `accountBalance`.
+3.Create a function `depositMoney()` to deposit money into the account. 
+4. Create a function `withdrawMoney()` to withdraw money from the account. 5. Create a global variable `transactions` of type `ArrayList<String>` to keep track of all the transactions.
+7. Create a function `printTransactions()` to print out the transaction history.
+8. Create a function `printAccountSummary()` to print out the account summary.
 
-
-
-
-OUTPUT
+## Flowchart
+![image](https://github.com/nithin403/22122033-MDS273L-JAVA/assets/113897873/2e317d59-0381-4f03-993b-9f70dc7226c0)
+## OUTPUT
 
 Menu:
 1. Initialize customer  
@@ -102,5 +108,5 @@ Exiting program...
 PS C:\Users\user\Desktop\nns> 
 
 
-![image](https://github.com/nithin403/22122033-MDS273L-JAVA/assets/113897873/2e317d59-0381-4f03-993b-9f70dc7226c0)
+
 
