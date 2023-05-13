@@ -1,5 +1,5 @@
 Lab 3
-
+## Question
 Create a java program, that stores the details of a student (Name, Register Number, Email, Class, Department).
 
 You can use a two-dimensional array to store the details.
@@ -21,3 +21,20 @@ In the end, you will have
 2)One static String array storing the names (note the program can store up to 1024 students)
 3)One two-dimensional string array storing the details of up to 1024 students
 4)A menu-driven main method implementing the functions and functionality
+
+## Flowchart
+
+![image](https://github.com/nithin403/22122033-MDS273L-JAVA/assets/113897873/a969c453-d6c7-44c4-bd80-77cbd1cb0dfd)
+
+## Solution
+1. Create a Student class with attributes: Name, Register Number, Email, Class, Department.
+2. Create a static global String array to store the names of the students entered.
+3. Create a two-dimensional String array to store the details of up to 1024 students.
+4. Implement a method to collect the details of a student and add them to the two-dimensional array.
+5. Implement a method to display the details of all the students in the two-dimensional array.
+6. Implement a method to search for a student's details based on their name
+7. Implement a menu-driven.
+ 
+ ## Output
+ 
+ ![image](https://github.com/nithin403/22122033-MDS273L-JAVA/assets/113897873/2d787370-2f74-4a92-b023-76fcb928e1fc)
