@@ -29,7 +29,8 @@ Constraints:
     d. Case 4: Show all names
     e. Case 5: Exit the program.
 
-
+## Flowchart
 ![image](https://github.com/nithin403/22122033-MDS273L-JAVA/assets/113897873/cc03d9c4-cf83-4af0-863d-f22cf3accfc5)
 
+## output
 ![image](https://github.com/nithin403/22122033-MDS273L-JAVA/assets/113897873/d0e4839a-99d1-401f-b78a-ebf3436f28c0)
