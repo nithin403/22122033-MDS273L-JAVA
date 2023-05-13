@@ -27,6 +27,7 @@ Your menu will have the following operations once the customer is created
 
 ## Flowchart
 ![image](https://github.com/nithin403/22122033-MDS273L-JAVA/assets/113897873/2e317d59-0381-4f03-993b-9f70dc7226c0)
+
 ## OUTPUT
 
 Menu:
